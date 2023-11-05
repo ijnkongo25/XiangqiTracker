@@ -1,0 +1,14 @@
+0 cannon_black
+1 cannon_red
+2 elephant_black
+3 elephant_red
+4 guard_black
+5 guard_red
+6 king_black
+7 king_red
+8 knight_black
+9 knight_red
+10 pawn_black
+11 pawn_red
+12 rook_black
+13 rook_red
